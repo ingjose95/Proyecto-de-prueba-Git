@@ -1,7 +1,5 @@
-from funtions import sumar, mensaje
+from funtions import sumar, restar, mensaje
 
-msg = 'mi name is Jose Melendez'
-
-print(f'Hello world, {msg}')
+print(mensaje())
 
 print(f'Esta es una seuma: {sumar(100,50)}')
